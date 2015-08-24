@@ -1,0 +1,12 @@
+c:\users\manuel.alberto\documents\visual studio 2013\Projects\ASPMVCBoilerplate\ASPMVCBoilerplate.Repositories\obj\Debug\ASPMVCBoilerplate.Repositories.csprojResolveAssemblyReference.cache
+c:\users\manuel.alberto\documents\visual studio 2013\Projects\ASPMVCBoilerplate\ASPMVCBoilerplate.Repositories\bin\Debug\ASPMVCBoilerplate.Repositories.dll.config
+c:\users\manuel.alberto\documents\visual studio 2013\Projects\ASPMVCBoilerplate\ASPMVCBoilerplate.Repositories\bin\Debug\ASPMVCBoilerplate.Repositories.dll
+c:\users\manuel.alberto\documents\visual studio 2013\Projects\ASPMVCBoilerplate\ASPMVCBoilerplate.Repositories\bin\Debug\ASPMVCBoilerplate.Repositories.pdb
+c:\users\manuel.alberto\documents\visual studio 2013\Projects\ASPMVCBoilerplate\ASPMVCBoilerplate.Repositories\bin\Debug\ASPMVCBoilerplate.Entities.dll
+c:\users\manuel.alberto\documents\visual studio 2013\Projects\ASPMVCBoilerplate\ASPMVCBoilerplate.Repositories\bin\Debug\EntityFramework.dll
+c:\users\manuel.alberto\documents\visual studio 2013\Projects\ASPMVCBoilerplate\ASPMVCBoilerplate.Repositories\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\manuel.alberto\documents\visual studio 2013\Projects\ASPMVCBoilerplate\ASPMVCBoilerplate.Repositories\bin\Debug\ASPMVCBoilerplate.Entities.pdb
+c:\users\manuel.alberto\documents\visual studio 2013\Projects\ASPMVCBoilerplate\ASPMVCBoilerplate.Repositories\bin\Debug\EntityFramework.xml
+c:\users\manuel.alberto\documents\visual studio 2013\Projects\ASPMVCBoilerplate\ASPMVCBoilerplate.Repositories\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\manuel.alberto\documents\visual studio 2013\Projects\ASPMVCBoilerplate\ASPMVCBoilerplate.Repositories\obj\Debug\ASPMVCBoilerplate.Repositories.dll
+c:\users\manuel.alberto\documents\visual studio 2013\Projects\ASPMVCBoilerplate\ASPMVCBoilerplate.Repositories\obj\Debug\ASPMVCBoilerplate.Repositories.pdb
