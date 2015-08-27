@@ -30,9 +30,9 @@ namespace ASPMVCBoilerplate.Repositories.Infraestructure
             throw new NotImplementedException("Not implemented exception");
         }
 
-        public IQueryable<T> GetBy(Expression<Func<T,bool>> predicate)
+        public IQueryable<T> GetBy(Expression<Func<T, bool>> predicate)
         {
-            throw new NotImplementedException("Not implemented exception");
+            return _dbSet.Where(predicate);
         }
 
         public int Create(T Entity)
