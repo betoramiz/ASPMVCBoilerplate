@@ -24,5 +24,12 @@ namespace ASPMVCBoilerplate.Tests
 
             Assert.IsTrue(todos.Count() > 0);
         }
+
+        [TestMethod]
+        public void GetByBirthDate()
+        {
+            Services.EmpleadoService empleado = new Services.EmpleadoService();
+            empleado.GetAll();
+        }
     }
 }

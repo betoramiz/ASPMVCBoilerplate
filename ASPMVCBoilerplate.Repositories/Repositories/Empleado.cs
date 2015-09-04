@@ -11,7 +11,7 @@ namespace ASPMVCBoilerplate.Repositories
     public interface IEmpleadoRepository : IGenericRepository<Entities.Empleado>
     { }
 
-    public class EmpleadoRepository : GenericRepository<Entities.Empleado>, IEmpleadoRepository
+    public class EmpleadoRepository : GenericRepository<Entities.Empleado>
     {
         public EmpleadoRepository(ApplicationContext context) : base(context) { }
     }

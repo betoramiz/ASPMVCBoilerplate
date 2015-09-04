@@ -24,3 +24,5 @@ c:\users\manuel.alberto\documents\visual studio 2013\Projects\ASPMVCBoilerplate\
 c:\users\manuel.alberto\documents\visual studio 2013\Projects\ASPMVCBoilerplate\ASPMVCBoilerplate.Tests\bin\Debug\ASPMVCBoilerplate.Tests.dll.config
 c:\users\manuel.alberto\documents\visual studio 2013\Projects\ASPMVCBoilerplate\ASPMVCBoilerplate.Tests\bin\Debug\EntityFramework.SqlServer.dll
 c:\users\manuel.alberto\documents\visual studio 2013\Projects\ASPMVCBoilerplate\ASPMVCBoilerplate.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Manuel.Alberto\Documents\Visual Studio 2013\Projects\ASPMVCBoilerplate\ASPMVCBoilerplate.Tests\bin\Debug\ASPMVCBoilerplate.Services.dll
+C:\Users\Manuel.Alberto\Documents\Visual Studio 2013\Projects\ASPMVCBoilerplate\ASPMVCBoilerplate.Tests\bin\Debug\ASPMVCBoilerplate.Services.pdb

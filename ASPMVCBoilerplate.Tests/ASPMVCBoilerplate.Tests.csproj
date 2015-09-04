@@ -68,6 +68,10 @@
       <Project>{60c4de1d-5f06-4567-a35a-39ec1b0bebd8}</Project>
       <Name>ASPMVCBoilerplate.Repositories</Name>
     </ProjectReference>
+    <ProjectReference Include="..\ASPMVCBoilerplate.Services\ASPMVCBoilerplate.Services.csproj">
+      <Project>{1f3079de-bdd9-4b62-aabb-1b5e67643bec}</Project>
+      <Name>ASPMVCBoilerplate.Services</Name>
+    </ProjectReference>
     <ProjectReference Include="..\ASPMVCBoilerplate\ASPMVCBoilerplate.csproj">
       <Project>{5D1E9787-1B75-44BE-B41A-DEFDB66DC56C}</Project>
       <Name>ASPMVCBoilerplate</Name>

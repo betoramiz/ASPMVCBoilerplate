@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace ASPMVCBoilerplate.Repositories.Infraestructure
 {
-    public class GenericRepository<T> : IGenericRepository<T> where T : class
+    public class GenericRepository<T> : IDisposable, IGenericRepository<T> where T : class
     {
         private ApplicationContext _context = null;
         private IDbSet<T> _dbSet = null;
@@ -61,6 +61,25 @@ namespace ASPMVCBoilerplate.Repositories.Infraestructure
         public bool Save()
         {
             throw new NotImplementedException("Not implemented exception");
+        }
+
+        private bool disposed = false;
+        protected virtual void Dispose(bool disposing)
+        {
+            if (!this.disposed)
+            {
+                if (disposing)
+                {
+                    _context.Dispose();
+                }
+            }
+            this.disposed = true;
+        }
+
+        public void Dispose()
+        {
+            Dispose(true);
+            GC.SuppressFinalize(this);
         }
     }
 }
