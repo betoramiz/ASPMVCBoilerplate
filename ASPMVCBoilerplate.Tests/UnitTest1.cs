@@ -31,5 +31,14 @@ namespace ASPMVCBoilerplate.Tests
             Services.EmpleadoService empleado = new Services.EmpleadoService();
             empleado.GetAll();
         }
+
+        public void IndexController()
+        {
+            var container = ASPMVCBoilerplate.App_Start.UnityConfig.GetConfiguredContainer();
+
+            Services.IEmpleadoService empleadoService = container.Resolve<Services.IEmpleadoService>();
+            ASPMVCBoilerplate.Controllers.EmpleadoController controller = new Controllers.EmpleadoController(empleadoService);
+
+        }
     }
 }
